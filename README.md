@@ -1,6 +1,7 @@
 # TaskManager-Button-Disabler
 
 ![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge)
+
 Simple way to disable/rename buttons from a task manager.
 
 
@@ -18,5 +19,5 @@ dotnet build
  - Works in TaskMgr, ProcessHacker etc...
  
 ### In action
-![APM](https://i.imgur.com/zqT4Dqz.gif)
+![in-action](Images/in-action.gif)
  
